@@ -1,0 +1,7 @@
+:root { color-scheme: light dark; font-family: system-ui, sans-serif; }
+body { margin: 0; }
+main { max-width: 32rem; margin: 12vh auto; padding: 0 1rem; }
+.eyebrow { text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.8rem; opacity: 0.7; }
+button { font: inherit; padding: 0.6rem 1rem; cursor: pointer; }
+button.quiet { background: none; border: 1px solid currentColor; }
+.error { color: #b00020; }
